@@ -1,0 +1,6 @@
+{
+  "name": "UK Clock Widget",
+  "description": "Android home screen widget and preview app displaying accurate UK London time on a realistic analog clock with day/night (Sun/Moon) complications and automatic GMT/BST detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

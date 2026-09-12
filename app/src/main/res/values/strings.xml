@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UK Clock Widget</string>
+    <string name="widget_name">UK Clock Widget</string>
+    <string name="widget_description">Accurate UK London analog clock with large AM/PM and automatic GMT/BST handling.</string>
+    <string name="label_uk_london">UK • LONDON</string>
+    <string name="label_gmt">GMT</string>
+    <string name="label_bst">BST</string>
+    <string name="label_am">AM</string>
+    <string name="label_pm">PM</string>
+    <string name="instruction_add_widget">To add the clock to your Home Screen, long press your Home Screen and select Widgets.</string>
+</resources>
